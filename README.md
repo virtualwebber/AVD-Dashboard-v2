@@ -1,4 +1,4 @@
-# AVD Live Dashboard 2026-11-10.25
+# AVD Live Dashboard 2026-11-10.28
 
 **Release Date** 10 November 2026
 
@@ -22,16 +22,16 @@ PowerShell AVD Live Dashboard.
 
 **Executable**
 
-AVD-Dashboard.exe (59.9 MB, standalone - nothing to install)
+AVD-Dashboard.exe (60 MB, standalone - nothing to install)
 
 **Checksums**
 
-SHA256 - F27349808C865302119E50229600245E08B98B3B0DA98BA20550C40E109A2BDA
+SHA256 - 4FF830BF52EBF14260B5D0281F140F9D3F073386222E4F8442A0D8397B5C8466
 
 **VirusTotal Result**
 
-https://www.virustotal.com/gui/file/f27349808c865302119e50229600245e08b98b3b0da98ba20550c40e109a2bda/detection
+https://www.virustotal.com/gui/file/4ff830bf52ebf14260b5d0281f140f9d3f073386222e4f8442a0d8397b5c8466/detection
 
-0 malicious / 0 suspicious of 69 engines
+0 malicious / 0 suspicious of 70 engines
 
 To check a download: `Get-FileHash .\AVD-Dashboard.exe -Algorithm SHA256`
