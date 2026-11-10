@@ -1,4 +1,4 @@
-# AVD Live Dashboard 2026-11-10.35
+# AVD Live Dashboard 2026-11-10.48
 
 **Release Date** 10 November 2026
 
@@ -26,12 +26,12 @@ AVD-Dashboard.exe (60 MB, standalone - nothing to install)
 
 **Checksums**
 
-SHA256 - 1B4832B6BE6B3F9F1FA2A5926E8AD71A0F89AE1A8BEB9DC85B32464AB1A88D92
+SHA256 - 83F6760E6FF85DF1DA0C73A89D09647E1B594A31C01EC84F5EDE48F66CD9FF2D
 
 **VirusTotal Result**
 
-https://www.virustotal.com/gui/file/1b4832b6be6b3f9f1fa2a5926e8ad71a0f89ae1a8beb9dc85b32464ab1a88d92/detection
+https://www.virustotal.com/gui/file/83f6760e6ff85df1da0c73a89d09647e1b594a31c01ec84f5ede48f66cd9ff2d/detection
 
-0 malicious / 0 suspicious of 70 engines
+0 malicious / 0 suspicious of 68 engines
 
 To check a download: `Get-FileHash .\AVD-Dashboard.exe -Algorithm SHA256`
