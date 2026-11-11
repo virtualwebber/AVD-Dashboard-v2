@@ -1,13 +1,13 @@
 {
     "app":  "AVD-Dashboard",
-    "version":  "2026-11-11.22",
-    "fileVersion":  "2026.11.11.22",
-    "published":  "2026-11-11T09:51:02Z",
+    "version":  "2026-11-11.25",
+    "fileVersion":  "2026.11.11.25",
+    "published":  "2026-11-11T09:59:44Z",
     "notes":  "",
     "exe":  {
                 "name":  "AVD-Dashboard.exe",
-                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2026-11-11.22/AVD-Dashboard.exe",
-                "sha256":  "8DB159F1DB73779CB9BB877776E36AECC3C578183034790F7AECA1B4F0B52C9B",
-                "size":  62966992
+                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2026-11-11.25/AVD-Dashboard.exe",
+                "sha256":  "687CE29054CA0911116F47DB6F4589105906EB3FB0A660B692D15883640C8A53",
+                "size":  62973939
             }
 }
