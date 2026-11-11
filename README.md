@@ -1,4 +1,4 @@
-# AVD Live Dashboard 2026-11-11.36
+# AVD Live Dashboard 2026-11-11.37
 
 **Release Date** 11 November 2026
 
@@ -28,7 +28,7 @@ Download: https://github.com/virtualwebber/AVD-Dashboard-v2/releases/latest
 
 **Checksums**
 
-SHA256 - DB399467F53E39AF2E58F88C1D403F90B5CFEA3B0D8F21E39940824EF1F0D572
+SHA256 - B21985CE003FDB0880516FDEA71BBE8AAB88DCB2BE321DE7D65A7490AB94D328
 
 **VirusTotal Result**
 
