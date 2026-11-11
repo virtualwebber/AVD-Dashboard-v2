@@ -1,4 +1,4 @@
-# AVD Live Dashboard 2026-11-11.88
+# AVD Live Dashboard 2026-11-11.89
 
 **Release Date** 11 November 2026
 
@@ -22,6 +22,14 @@ Sample data (Contoso); light and dark themes.
 | ![Session Hosts](screenshots/session-hosts.png) | ![Session Hosts, dark theme](screenshots/session-hosts-dark.png) |
 | *Session Hosts: status, sessions and users, CPU / memory / disk / input delay heat map* | |
 
+**Several subscriptions at once**
+
+Pick more than one in Switch subscription: each gets a card (with a switch to hide it) and a Subscription column.
+
+![Per Host Pool, three subscriptions](screenshots/dashboard-3subs.png)
+
+![Session Hosts, three subscriptions](screenshots/session-hosts-3subs.png)
+
 **Requirements**
 
 - Windows 10 or 11 (64-bit), or Windows Server 2016 or later. Nothing to install - the .NET runtime is inside the exe.
@@ -39,7 +47,7 @@ Download: https://github.com/virtualwebber/AVD-Dashboard-v2/releases/latest
 
 **Checksums**
 
-SHA256 - 2B5A8F1AA06A2616D03F3B476012BE26306C4F6B3527DE7D259CE67CCEF9259C
+SHA256 - 1B878C1F14E807F382AA6F9D44A133E882996FE7C958788504761CADB0A1BF02
 
 **VirusTotal Result**
 
