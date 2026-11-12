@@ -1,4 +1,4 @@
-# AVD Live Dashboard 2026-11-12.2
+# AVD Live Dashboard 2026-11-12.4
 
 **Release Date** 12 November 2026
 
@@ -8,8 +8,7 @@
 
 A live dashboard for Azure Virtual Desktop. One window shows your host pools, session hosts, user sessions,
 workspaces and app groups, scaling plans, images, costs and more, and lets you act on them (drain, start,
-restart, add hosts, create host pools and so on). It is a native Windows app and the C# edition of the
-PowerShell AVD Live Dashboard.
+restart, add hosts, create host pools and so on). 
 
 **Screenshots**
 
@@ -41,13 +40,13 @@ Pick more than one in Switch subscription: each gets a card (with a switch to hi
 
 **Executable**
 
-AVD-Dashboard.exe (60.1 MB, standalone - nothing to install)
+AVD-Dashboard.exe (60.2 MB, standalone - nothing to install)
 
 Download: https://github.com/virtualwebber/AVD-Dashboard-v2/releases/latest
 
 **Checksums**
 
-SHA256 - C9C3989C0FC602B3FF7B3BFD3CA1A5C87AED649DBFA3A9E0241E712CBC3CEF4C
+SHA256 - 83D86DDE935C3E564C2BDB96C6447C04E1E53EF4F5279FD6BAC0CCDBB87A027E
 
 **VirusTotal Result**
 

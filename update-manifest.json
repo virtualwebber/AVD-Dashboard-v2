@@ -1,13 +1,13 @@
 {
     "app":  "AVD-Dashboard",
-    "version":  "2026-11-12.2",
-    "fileVersion":  "2026.11.12.2",
-    "published":  "2026-11-12T07:56:56Z",
-    "notes":  "",
+    "version":  "2026-11-12.4",
+    "fileVersion":  "2026.11.12.4",
+    "published":  "2026-11-12T08:35:12Z",
+    "notes":  "Features\n- Diagnostics / monitoring status columns\n- Settings: refresh interval per view",
     "exe":  {
                 "name":  "AVD-Dashboard.exe",
-                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2026-11-12.2/AVD-Dashboard.exe",
-                "sha256":  "C9C3989C0FC602B3FF7B3BFD3CA1A5C87AED649DBFA3A9E0241E712CBC3CEF4C",
-                "size":  63063400
+                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2026-11-12.4/AVD-Dashboard.exe",
+                "sha256":  "83D86DDE935C3E564C2BDB96C6447C04E1E53EF4F5279FD6BAC0CCDBB87A027E",
+                "size":  63079615
             }
 }
