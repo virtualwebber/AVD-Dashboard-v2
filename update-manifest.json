@@ -1,13 +1,13 @@
 {
     "app":  "AVD-Dashboard",
-    "version":  "2026-11-12.23",
-    "fileVersion":  "2026.11.12.23",
-    "published":  "2026-11-12T13:24:54Z",
-    "notes":  "Features\n- Install Azure Monitor Agent (host pool / session hosts)\n- Session Hosts: Monitoring column checks the agent\n- Add session hosts: Azure Monitor Agent and data collection rule\n- Configure diagnostics (all logs): host pools, workspaces, app groups\n- New host pool: diagnostics set up with the pool\n\nFixes\n- Workspaces: right-click no longer opens the app group pane",
+    "version":  "2026-11-12.36",
+    "fileVersion":  "2026.11.12.36",
+    "published":  "2026-11-12T14:18:07Z",
+    "notes":  "Features\n- Session Hosts: filter by Monitoring\n\nFixes\n- Session Hosts: blank column headers after scrolling sideways\n- Fewer Azure and Log Analytics calls (faster, lighter refreshes)\n- Session Hosts: drain and power actions show on the row straight away\n- Session History: hosts added later show their host pool\n- Azure Files: used space per share (several shares in one account showed the account total)",
     "exe":  {
                 "name":  "AVD-Dashboard.exe",
-                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2026-11-12.23/AVD-Dashboard.exe",
-                "sha256":  "EFD403488C9442966BE9B678B0D71F9AACB1B3C8FCF835EF1567C922CE403DB7",
-                "size":  63157365
+                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2026-11-12.36/AVD-Dashboard.exe",
+                "sha256":  "2BAC3E2114D846A0088C3033D39B473D768CC1598E30E7922859F21EB38131AC",
+                "size":  63178793
             }
 }

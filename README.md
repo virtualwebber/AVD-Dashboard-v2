@@ -1,4 +1,4 @@
-# AVD Live Dashboard 2026-11-12.23
+# AVD Live Dashboard 2026-11-12.36
 
 **Release Date** 12 November 2026
 
@@ -40,13 +40,13 @@ Pick more than one in Switch subscription: each gets a card (with a switch to hi
 
 **Executable**
 
-AVD-Dashboard.exe (60.2 MB, standalone - nothing to install)
+AVD-Dashboard.exe (60.3 MB, standalone - nothing to install)
 
 Download: https://github.com/virtualwebber/AVD-Dashboard-v2/releases/latest
 
 **Checksums**
 
-SHA256 - EFD403488C9442966BE9B678B0D71F9AACB1B3C8FCF835EF1567C922CE403DB7
+SHA256 - 2BAC3E2114D846A0088C3033D39B473D768CC1598E30E7922859F21EB38131AC
 
 **VirusTotal Result**
 
