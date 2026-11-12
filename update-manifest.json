@@ -1,13 +1,13 @@
 {
     "app":  "AVD-Dashboard",
-    "version":  "2026-11-12.5",
-    "fileVersion":  "2026.11.12.5",
-    "published":  "2026-11-12T09:48:50Z",
-    "notes":  "Features\n- Host pool / VM name column stays in place when scrolling sideways",
+    "version":  "2026-11-12.14",
+    "fileVersion":  "2026.11.12.14",
+    "published":  "2026-11-12T11:43:18Z",
+    "notes":  "Features\n- Create Dashboard Role: pick any of your subscriptions\n- Permissions Checker: check several subscriptions\n- Per Host Pool / Session Hosts: column order is remembered\n- Per Host Pool: \"Set Desktop to VM Name\" in the details pane\n- Session Hosts: Assigned User column only shown with personal pools",
     "exe":  {
                 "name":  "AVD-Dashboard.exe",
-                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2026-11-12.5/AVD-Dashboard.exe",
-                "sha256":  "966AC76852E3255E6817605DE5D20DBA10EB6E1CF84AE9C4AD1CC974A6FE9D94",
-                "size":  63079641
+                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2026-11-12.14/AVD-Dashboard.exe",
+                "sha256":  "A73D968C2D2CF2E5AB80341C1DD573036557F31E93D59868DAB4EEFA8EE0F7B2",
+                "size":  63126472
             }
 }
