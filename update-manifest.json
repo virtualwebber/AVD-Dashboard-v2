@@ -1,13 +1,13 @@
 {
     "app":  "AVD-Dashboard",
-    "version":  "2026-11-12.4",
-    "fileVersion":  "2026.11.12.4",
-    "published":  "2026-11-12T08:35:12Z",
-    "notes":  "Features\n- Diagnostics / monitoring status columns\n- Settings: refresh interval per view",
+    "version":  "2026-11-12.5",
+    "fileVersion":  "2026.11.12.5",
+    "published":  "2026-11-12T09:48:50Z",
+    "notes":  "Features\n- Host pool / VM name column stays in place when scrolling sideways",
     "exe":  {
                 "name":  "AVD-Dashboard.exe",
-                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2026-11-12.4/AVD-Dashboard.exe",
-                "sha256":  "83D86DDE935C3E564C2BDB96C6447C04E1E53EF4F5279FD6BAC0CCDBB87A027E",
-                "size":  63079615
+                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2026-11-12.5/AVD-Dashboard.exe",
+                "sha256":  "966AC76852E3255E6817605DE5D20DBA10EB6E1CF84AE9C4AD1CC974A6FE9D94",
+                "size":  63079641
             }
 }
