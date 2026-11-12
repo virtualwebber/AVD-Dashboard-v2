@@ -36,6 +36,37 @@ Pick more than one in Switch subscription: each gets a card (with a switch to hi
 - Internet access to Azure (Azure Resource Manager and Microsoft Entra sign-in). Updates are checked on GitHub.
 - A config file (`*.psd1`) in a `config` folder next to the exe, or in `%APPDATA%\AVDDashboard\config`.
 
+**Getting started**
+
+1. Download `AVD-Dashboard.exe` and put it in a folder of its own, for example `C:\Tools\AVD-Dashboard`.
+2. Run it and sign in with your Azure account. MFA works as usual.
+3. With no config file, it opens on your account's first subscription, which is enough to look around. Use **Switch subscription** to pick another, or tick several to see them together.
+
+**Config file and Settings: what's the difference?**
+
+| | Config file | Settings |
+| --- | --- | --- |
+| What | Your environment: tenant, subscriptions, workspace, resource groups to include or exclude, image and storage options | Your own preferences: refresh intervals, hidden tabs and columns, theme, thresholds |
+| Where | A `*.psd1` file in a `config` folder next to the exe, or in `%APPDATA%\AVDDashboard\config` | The **Settings** button in the dashboard, saved for your Windows user (separately for each config) |
+| Who | Usually one file shared by the team | Each person |
+| Changes apply | After **Reload config** in Settings | Straight away |
+
+A minimal config file:
+
+```powershell
+@{
+    Name  = 'Contoso Production'
+    Azure = @{
+        TenantId       = '00000000-0000-0000-0000-000000000000'
+        SubscriptionId = '11111111-1111-1111-1111-111111111111'
+    }
+}
+```
+
+- **Log Analytics workspace:** if you don't set one, the dashboard finds it from your host pools' diagnostic settings.
+- **Several environments:** put one config file per environment in the `config` folder. The dashboard asks which to use at start-up and can remember your choice.
+- **Editing:** use **Tools → Config Editor** instead of editing the file by hand.
+
 ---
 
 **Executable**
