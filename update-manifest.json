@@ -1,13 +1,13 @@
 {
     "app":  "AVD-Dashboard",
-    "version":  "2026-11-12.14",
-    "fileVersion":  "2026.11.12.14",
-    "published":  "2026-11-12T11:43:18Z",
-    "notes":  "Features\n- Create Dashboard Role: pick any of your subscriptions\n- Permissions Checker: check several subscriptions\n- Per Host Pool / Session Hosts: column order is remembered\n- Per Host Pool: \"Set Desktop to VM Name\" in the details pane\n- Session Hosts: Assigned User column only shown with personal pools",
+    "version":  "2026-11-12.23",
+    "fileVersion":  "2026.11.12.23",
+    "published":  "2026-11-12T13:24:54Z",
+    "notes":  "Features\n- Install Azure Monitor Agent (host pool / session hosts)\n- Session Hosts: Monitoring column checks the agent\n- Add session hosts: Azure Monitor Agent and data collection rule\n- Configure diagnostics (all logs): host pools, workspaces, app groups\n- New host pool: diagnostics set up with the pool\n\nFixes\n- Workspaces: right-click no longer opens the app group pane",
     "exe":  {
                 "name":  "AVD-Dashboard.exe",
-                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2026-11-12.14/AVD-Dashboard.exe",
-                "sha256":  "A73D968C2D2CF2E5AB80341C1DD573036557F31E93D59868DAB4EEFA8EE0F7B2",
-                "size":  63126472
+                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2026-11-12.23/AVD-Dashboard.exe",
+                "sha256":  "EFD403488C9442966BE9B678B0D71F9AACB1B3C8FCF835EF1567C922CE403DB7",
+                "size":  63157365
             }
 }
