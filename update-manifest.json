@@ -1,13 +1,13 @@
 {
     "app":  "AVD-Dashboard",
-    "version":  "2026-11-12.36",
-    "fileVersion":  "2026.11.12.36",
-    "published":  "2026-11-12T14:18:07Z",
-    "notes":  "Features\n- Session Hosts: filter by Monitoring\n\nFixes\n- Session Hosts: blank column headers after scrolling sideways\n- Fewer Azure and Log Analytics calls (faster, lighter refreshes)\n- Session Hosts: drain and power actions show on the row straight away\n- Session History: hosts added later show their host pool\n- Azure Files: used space per share (several shares in one account showed the account total)",
+    "version":  "2026-11-12.39",
+    "fileVersion":  "2026.11.12.39",
+    "published":  "2026-11-12T15:55:13Z",
+    "notes":  "",
     "exe":  {
                 "name":  "AVD-Dashboard.exe",
-                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2026-11-12.36/AVD-Dashboard.exe",
-                "sha256":  "2BAC3E2114D846A0088C3033D39B473D768CC1598E30E7922859F21EB38131AC",
-                "size":  63178793
+                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2026-11-12.39/AVD-Dashboard.exe",
+                "sha256":  "BEDCF236FD85D04F9F387BBED88610ED57F6B6B87E21479CF93987BF683B5BAB",
+                "size":  63179539
             }
 }
