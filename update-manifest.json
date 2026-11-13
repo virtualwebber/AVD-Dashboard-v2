@@ -1,13 +1,13 @@
 {
     "app":  "AVD-Dashboard",
-    "version":  "2026-11-12.45",
-    "fileVersion":  "2026.11.12.45",
-    "published":  "2026-11-12T16:52:47Z",
-    "notes":  "Features\n- Workspaces: zoom (Ctrl + mouse wheel)",
+    "version":  "2611.13.01",
+    "fileVersion":  "2611.13.1.0",
+    "published":  "2026-11-13T07:53:36Z",
+    "notes":  "Features\n- Scaling plans: dynamic autoscaling (create and delete session hosts)\n- Ephemeral OS disk host pools (session host configuration)\n- Workspaces: create workspaces and application groups",
     "exe":  {
                 "name":  "AVD-Dashboard.exe",
-                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2026-11-12.45/AVD-Dashboard.exe",
-                "sha256":  "77C88BB75EBA0A9FD163271168641703FE9A6BB3CE71B2787F8C7F0A456C3DAE",
-                "size":  63180583
+                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.13.01/AVD-Dashboard.exe",
+                "sha256":  "A8839467836737C07A4FB809456F4936E9C7CA12FF65C13C8F3D901566210100",
+                "size":  63199702
             }
 }
