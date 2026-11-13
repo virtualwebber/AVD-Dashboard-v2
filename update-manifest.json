@@ -1,13 +1,13 @@
 {
     "app":  "AVD-Dashboard",
-    "version":  "2611.13.01",
-    "fileVersion":  "2611.13.1.0",
-    "published":  "2026-11-13T07:53:36Z",
-    "notes":  "Features\n- Scaling plans: dynamic autoscaling (create and delete session hosts)\n- Ephemeral OS disk host pools (session host configuration)\n- Workspaces: create workspaces and application groups",
+    "version":  "2611.13.02",
+    "fileVersion":  "2611.13.2.0",
+    "published":  "2026-11-13T08:02:41Z",
+    "notes":  "Features\n- Per Host Pool: toolbar with filter, New host pool and Export CSV",
     "exe":  {
                 "name":  "AVD-Dashboard.exe",
-                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.13.01/AVD-Dashboard.exe",
-                "sha256":  "A8839467836737C07A4FB809456F4936E9C7CA12FF65C13C8F3D901566210100",
-                "size":  63199702
+                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.13.02/AVD-Dashboard.exe",
+                "sha256":  "9D6EF1B8669818A50E84C112CA122A1C197E1EC95F1154EEDB07E8D20238985B",
+                "size":  63202589
             }
 }
