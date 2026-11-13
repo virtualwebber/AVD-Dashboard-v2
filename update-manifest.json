@@ -1,13 +1,13 @@
 {
     "app":  "AVD-Dashboard",
-    "version":  "2611.13.02",
-    "fileVersion":  "2611.13.2.0",
-    "published":  "2026-11-13T08:02:41Z",
-    "notes":  "Features\n- Per Host Pool: toolbar with filter, New host pool and Export CSV",
+    "version":  "2611.13.03",
+    "fileVersion":  "2611.13.3.0",
+    "published":  "2026-11-13T10:14:16Z",
+    "notes":  "Features\n- Deployment templates: Save as new template (copy a loaded template under a new name)\n- Workspaces: deployment scope (Geographical / Regional) shown, and chosen in New workspace\n\nFixes\n- Session host configuration pools: ephemeral OS disk, gallery image and role assignment deployment failures fixed\n- New host pools: reserved subnets hidden, VM size checks improved, Regional scope warned about\n- Workspaces: Add to workspace and the New application group workspace list fixed\n- Delete host pool: clearer confirmation of what is deleted and kept\n- Ephemeral OS disk hosts: Deallocate skips them, and scaling plans warn when power management can\u0027t stop them\n- Scaling plans: dynamic minimum pool size limited to Azure\u0027s 0-59\n- Remove session hosts: the last host can be removed too (the pool is kept with no VMs)\n- Remove session hosts / Delete host pool: can also delete the hosts\u0027 AD computer accounts and Entra ID devices",
     "exe":  {
                 "name":  "AVD-Dashboard.exe",
-                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.13.02/AVD-Dashboard.exe",
-                "sha256":  "9D6EF1B8669818A50E84C112CA122A1C197E1EC95F1154EEDB07E8D20238985B",
-                "size":  63202589
+                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.13.03/AVD-Dashboard.exe",
+                "sha256":  "9C2F8ABF7F16D4FC677DECFE9FB9C836C207E0F7A17C0F1145A74A8DEFF387B0",
+                "size":  63228055
             }
 }
