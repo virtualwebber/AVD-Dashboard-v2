@@ -1,4 +1,4 @@
-# AVD Live Dashboard 2611.13.03
+# AVD Live Dashboard 2611.13.04
 
 **Release Date** 13 November 2026
 
@@ -77,12 +77,12 @@ Download: https://github.com/virtualwebber/AVD-Dashboard-v2/releases/latest
 
 **Checksums**
 
-SHA256 - 9C2F8ABF7F16D4FC677DECFE9FB9C836C207E0F7A17C0F1145A74A8DEFF387B0
+SHA256 - 1D680E76153309B7BAD6BB2131523492314E0A5FCFBDE0E1940945F0EAAF6585
 
 **VirusTotal Result**
 
-https://www.virustotal.com/gui/file/9c2f8abf7f16d4fc677decfe9fb9c836c207e0f7a17c0f1145a74a8deff387b0/detection
+https://www.virustotal.com/gui/file/1d680e76153309b7bad6bb2131523492314e0a5fcfbde0e1940945f0eaaf6585/detection
 
-0 malicious / 0 suspicious of 70 engines
+0 malicious / 0 suspicious of 69 engines
 
 To check a download: `Get-FileHash .\AVD-Dashboard.exe -Algorithm SHA256`
