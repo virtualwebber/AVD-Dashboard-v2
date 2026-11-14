@@ -1,13 +1,13 @@
 {
-    "app":  "AVD-Dashboard",
-    "version":  "2611.13.04",
-    "fileVersion":  "2611.13.4.0",
-    "published":  "2026-11-13T11:21:07Z",
-    "notes":  "Fixes\n- Optimisation: safer directory clean-up and role checks, faster lookups, fewer Azure calls",
-    "exe":  {
-                "name":  "AVD-Dashboard.exe",
-                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.13.04/AVD-Dashboard.exe",
-                "sha256":  "1D680E76153309B7BAD6BB2131523492314E0A5FCFBDE0E1940945F0EAAF6585",
-                "size":  63229173
-            }
+  "app": "AVD-Dashboard",
+  "version": "2611.14.02",
+  "fileVersion": "2611.14.2.0",
+  "published": "2026-11-14T12:15:17Z",
+  "notes": "Features\n- Switch config button (when there are several configs)\n- Config picker: open the Config Editor before choosing\n- Create Image: optional WDOT optimisation\n- Images: delete a leftover preparation VM\n- Create Image: resume an interrupted job\n- Images: Azure Compute Galleries window\n- Settings: default seal mode for Create Image\n- BIS-F path setting removed (Create Image finds BIS-F on the VM)\n\nFixes\n- Switch subscription / user / config while an image job runs: answering No no longer opens a second dashboard",
+  "exe": {
+    "name": "AVD-Dashboard.exe",
+    "url": "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.14.02/AVD-Dashboard.exe",
+    "sha256": "933344D75588ED9BDD42CB4CE5A691F262A82951A6D7113245F32DE3B50182DC",
+    "size": 63289876
+  }
 }
