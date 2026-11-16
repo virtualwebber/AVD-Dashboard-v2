@@ -1,6 +1,6 @@
-# AVD Live Dashboard 2611.14.02
+# AVD Live Dashboard 2611.16.01
 
-**Release Date** 14 November 2026
+**Release Date** 16 November 2026
 
 ---
 
@@ -9,6 +9,10 @@
 A live dashboard for Azure Virtual Desktop. One window shows your host pools, session hosts, user sessions,
 workspaces and app groups, scaling plans, images, costs and more, and lets you act on them (drain, start,
 restart, add hosts, create host pools and so on). 
+
+**Design principles**
+
+A standalone Windows app for running AVD without a management server, a subscription of its own or a third-party licence. You open it, sign in, and manage.
 
 **Screenshots**
 
@@ -77,11 +81,11 @@ Download: https://github.com/virtualwebber/AVD-Dashboard-v2/releases/latest
 
 **Checksums**
 
-SHA256 - 933344D75588ED9BDD42CB4CE5A691F262A82951A6D7113245F32DE3B50182DC
+SHA256 - 4C25332B479468F94BE4BD63484085260C1C49E2E6AEEBE9ABFCD88379F0F4EB
 
 **VirusTotal Result**
 
-https://www.virustotal.com/gui/file/933344d75588ed9bdd42cb4ce5a691f262a82951a6d7113245f32de3b50182dc/detection
+https://www.virustotal.com/gui/file/4c25332b479468f94be4bd63484085260c1c49e2e6aeebe9abfcd88379f0f4eb/detection
 
 0 malicious / 0 suspicious of 70 engines
 
