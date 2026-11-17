@@ -1,13 +1,13 @@
 {
   "app": "AVD-Dashboard",
-  "version": "2611.17.01",
-  "fileVersion": "2611.17.1.0",
-  "published": "2026-11-17T06:51:17Z",
-  "notes": "Features\n- Tasks: preview, failure badge, who's open, right-click menu, confirm on enable\n- Settings: central config folder (e.g. a file share)",
+  "version": "2611.17.02",
+  "fileVersion": "2611.17.2.0",
+  "published": "2026-11-17T11:14:48Z",
+  "notes": "Features\n- No access to the subscription at start-up: Open PIM and Retry buttons\n\nFixes\n- Settings: Create Image VM sizes, image versions to keep and replication regions can be changed",
   "exe": {
     "name": "AVD-Dashboard.exe",
-    "url": "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.17.01/AVD-Dashboard.exe",
-    "sha256": "4C460ECB9107477D4C19B17D6EABFAC010D67F3FFE15AFEEAE5896C40CFCBB2E",
-    "size": 63371637
+    "url": "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.17.02/AVD-Dashboard.exe",
+    "sha256": "F4AEB7477D9E5662D92DD6095FE40586484598B979F1DF910BD8C01AC0BBD5B9",
+    "size": 63373207
   }
 }
