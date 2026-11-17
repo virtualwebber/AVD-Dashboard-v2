@@ -1,13 +1,13 @@
 {
   "app": "AVD-Dashboard",
-  "version": "2611.16.01",
-  "fileVersion": "2611.16.1.0",
-  "published": "2026-11-16T10:15:10Z",
-  "notes": "Features\n- Images: Show Image Job Status\n- Remove session hosts: When empty (drain first)\n- VM size: Browse... picker (search, filters, why a size doesn't fit, quota)\n- WDOT: custom download URL (your own copy / fork)\n- WDOT: defaults in the config file and Config Editor (Images.Wdot)\n- Tasks tab: scheduled Clean Snapshots / Clean Image Versions, shared through the config folder",
+  "version": "2611.17.01",
+  "fileVersion": "2611.17.1.0",
+  "published": "2026-11-17T06:51:17Z",
+  "notes": "Features\n- Tasks: preview, failure badge, who's open, right-click menu, confirm on enable\n- Settings: central config folder (e.g. a file share)",
   "exe": {
     "name": "AVD-Dashboard.exe",
-    "url": "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.16.01/AVD-Dashboard.exe",
-    "sha256": "4C25332B479468F94BE4BD63484085260C1C49E2E6AEEBE9ABFCD88379F0F4EB",
-    "size": 63352069
+    "url": "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.17.01/AVD-Dashboard.exe",
+    "sha256": "4C460ECB9107477D4C19B17D6EABFAC010D67F3FFE15AFEEAE5896C40CFCBB2E",
+    "size": 63371637
   }
 }
