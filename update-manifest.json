@@ -1,13 +1,13 @@
 {
     "app":  "AVD-Dashboard",
-    "version":  "2611.25.07",
-    "fileVersion":  "2611.25.7.0",
-    "published":  "2026-11-25T14:08:13Z",
-    "notes":  "Features\n- Dashboard refresh default 60 seconds\n- Azure Files card hidden with its tab\n\nFixes\n- Monitoring: rules sending to another workspace shown\n- Monitoring re-read every 5 minutes, and on Refresh",
+    "version":  "2611.25.08",
+    "fileVersion":  "2611.25.8.0",
+    "published":  "2026-11-25T14:18:33Z",
+    "notes":  "",
     "exe":  {
                 "name":  "AVD-Dashboard.exe",
-                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.25.07/AVD-Dashboard.exe",
-                "sha256":  "55BC724891044E2376ED87EE05A58B1BA1F3E6A226ADE69FC16DCB9E3D2BC8D0",
-                "size":  63490480
+                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.25.08/AVD-Dashboard.exe",
+                "sha256":  "1B1571D6BC98E83F72E9B074558E84478AE51F6ABEE5DAB9A0A35F664389A0E4",
+                "size":  63492384
             }
 }
