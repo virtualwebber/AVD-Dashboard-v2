@@ -1,13 +1,13 @@
 {
     "app":  "AVD-Dashboard",
-    "version":  "2611.25.04",
-    "fileVersion":  "2611.25.4.0",
-    "published":  "2026-11-25T11:19:46Z",
-    "notes":  "Features\n- Profile Tools: Container Cleanup page\n\nFixes\n- Profile Cleanup: unreadable profiles no longer listed as stale\n- Profile Tools: cancelled deletes are audited\n- Storage Locations: account lookup retried after errors",
+    "version":  "2611.25.05",
+    "fileVersion":  "2611.25.5.0",
+    "published":  "2026-11-25T11:24:53Z",
+    "notes":  "",
     "exe":  {
                 "name":  "AVD-Dashboard.exe",
-                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.25.04/AVD-Dashboard.exe",
-                "sha256":  "C0E914473D2071130F637FD8F43CF446BB1F36A1BE6320F74DD6894D724C4487",
-                "size":  63488632
+                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.25.05/AVD-Dashboard.exe",
+                "sha256":  "FBE908470553DAE129837701CFEF5F25EF69548FD39D0FAEE6896E496118947B",
+                "size":  63488816
             }
 }
