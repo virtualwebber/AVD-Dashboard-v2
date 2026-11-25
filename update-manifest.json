@@ -1,13 +1,13 @@
 {
     "app":  "AVD-Dashboard",
-    "version":  "2611.25.05",
-    "fileVersion":  "2611.25.5.0",
-    "published":  "2026-11-25T11:24:53Z",
-    "notes":  "",
+    "version":  "2611.25.06",
+    "fileVersion":  "2611.25.6.0",
+    "published":  "2026-11-25T11:49:54Z",
+    "notes":  "Fixes\n- Diagnostic settings re-read every 5 minutes, and on Refresh",
     "exe":  {
                 "name":  "AVD-Dashboard.exe",
-                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.25.05/AVD-Dashboard.exe",
-                "sha256":  "FBE908470553DAE129837701CFEF5F25EF69548FD39D0FAEE6896E496118947B",
-                "size":  63488816
+                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.25.06/AVD-Dashboard.exe",
+                "sha256":  "F869DD5FC80641CC2FCF6B90A3A204B888545AF2E20597BEEAB46A92031BB507",
+                "size":  63489056
             }
 }
