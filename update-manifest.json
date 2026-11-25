@@ -1,13 +1,13 @@
 {
     "app":  "AVD-Dashboard",
-    "version":  "2611.25.10",
-    "fileVersion":  "2611.25.10.0",
-    "published":  "2026-11-25T17:06:27Z",
-    "notes":  "Fixes\n- Session details: Transport shows UDP when on Shortpath\n- Confirmations: long host names no longer wrap\n- Session details: Transport from the latest connection\n- Session details: Refresh re-reads Log Analytics",
+    "version":  "2611.25.11",
+    "fileVersion":  "2611.25.11.0",
+    "published":  "2026-11-25T17:30:10Z",
+    "notes":  "Features\n- SHC pools: monitoring agent set up on new and updated hosts",
     "exe":  {
                 "name":  "AVD-Dashboard.exe",
-                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.25.10/AVD-Dashboard.exe",
-                "sha256":  "842D3670906C7D1C4062FB47E1829957C7F5AA1703515D077B5657B0121172E0",
-                "size":  63494112
+                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.25.11/AVD-Dashboard.exe",
+                "sha256":  "BED50F24632A9F0FD7092D202FAB52BC7B3546AADF43E6C45860FAA1C8961542",
+                "size":  63506168
             }
 }
