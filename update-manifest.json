@@ -1,13 +1,13 @@
 {
     "app":  "AVD-Dashboard",
-    "version":  "2611.25.01",
-    "fileVersion":  "2611.25.1.0",
-    "published":  "2026-11-25T07:21:42Z",
-    "notes":  "Features\n- Profile Tools Updates",
+    "version":  "2611.25.02",
+    "fileVersion":  "2611.25.2.0",
+    "published":  "2026-11-25T08:58:53Z",
+    "notes":  "Fixes\n- Windows no longer flash white before showing in dark mode (Settings, Profile Tools and others)",
     "exe":  {
                 "name":  "AVD-Dashboard.exe",
-                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.25.01/AVD-Dashboard.exe",
-                "sha256":  "7FD3D7727B8ADCF8C2FE9BAA8C2E5366A1558789E8793B69D53678E97041AB14",
-                "size":  63422536
+                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.25.02/AVD-Dashboard.exe",
+                "sha256":  "C65D094A698C88A732123640E6C462B597C25902DAA755ED42BC396CEFB7A78B",
+                "size":  63423568
             }
 }
