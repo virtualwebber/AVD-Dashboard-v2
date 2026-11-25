@@ -1,13 +1,13 @@
 {
     "app":  "AVD-Dashboard",
-    "version":  "2611.19.03",
-    "fileVersion":  "2611.19.3.0",
-    "published":  "2026-11-19T16:16:21Z",
-    "notes":  "Fixes\n- Config picker opened behind other windows after an update restart\n- Unique Users: host pool names are no longer cut off",
+    "version":  "2611.25.01",
+    "fileVersion":  "2611.25.1.0",
+    "published":  "2026-11-25T07:21:42Z",
+    "notes":  "Features\n- Profile Tools Updates",
     "exe":  {
                 "name":  "AVD-Dashboard.exe",
-                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.19.03/AVD-Dashboard.exe",
-                "sha256":  "4AA6D6AF032DD69A5112C20B793CABBBCAC015DE0097B893D276DB5626957F42",
-                "size":  63384056
+                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.25.01/AVD-Dashboard.exe",
+                "sha256":  "7FD3D7727B8ADCF8C2FE9BAA8C2E5366A1558789E8793B69D53678E97041AB14",
+                "size":  63422536
             }
 }
