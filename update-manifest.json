@@ -1,13 +1,13 @@
 {
     "app":  "AVD-Dashboard",
-    "version":  "2611.25.02",
-    "fileVersion":  "2611.25.2.0",
-    "published":  "2026-11-25T08:58:53Z",
-    "notes":  "Fixes\n- Windows no longer flash white before showing in dark mode (Settings, Profile Tools and others)",
+    "version":  "2611.25.03",
+    "fileVersion":  "2611.25.3.0",
+    "published":  "2026-11-25T10:30:31Z",
+    "notes":  "Features\n- Settings \u003e Log Analytics: set each subscription\u0027s workspace by name\n- Log Analytics: workspace names work in the config (Config Editor)",
     "exe":  {
                 "name":  "AVD-Dashboard.exe",
-                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.25.02/AVD-Dashboard.exe",
-                "sha256":  "C65D094A698C88A732123640E6C462B597C25902DAA755ED42BC396CEFB7A78B",
-                "size":  63423568
+                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.25.03/AVD-Dashboard.exe",
+                "sha256":  "C38C86376C458E565C7092BBDEF00ACC450882EA3CCA5CF2FF71EDB29C941B76",
+                "size":  63431128
             }
 }
