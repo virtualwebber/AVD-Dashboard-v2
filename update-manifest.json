@@ -1,13 +1,13 @@
 {
     "app":  "AVD-Dashboard",
-    "version":  "2611.26.02",
-    "fileVersion":  "2611.26.2.0",
-    "published":  "2026-11-26T09:42:37Z",
-    "notes":  "Features\n- Add session hosts: option to set desktop names to VM names\n- Add session hosts: option to set no tags",
+    "version":  "2611.26.03",
+    "fileVersion":  "2611.26.3.0",
+    "published":  "2026-11-26T11:11:21Z",
+    "notes":  "Features\n- Standard pooled host pools: Add session hosts",
     "exe":  {
                 "name":  "AVD-Dashboard.exe",
-                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.26.02/AVD-Dashboard.exe",
-                "sha256":  "CC0A58DD1353E0B726B8E6FEA36EAD48F7B5DE554C82832E82498D9A127269BA",
-                "size":  63522472
+                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.26.03/AVD-Dashboard.exe",
+                "sha256":  "519B9352531434A77AA183E4DEB0C01559213B1E5BB54CAD09E31FC5C49211AF",
+                "size":  63522624
             }
 }
