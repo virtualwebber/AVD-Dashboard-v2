@@ -1,13 +1,13 @@
 {
     "app":  "AVD-Dashboard",
-    "version":  "2611.26.05",
-    "fileVersion":  "2611.26.5.0",
-    "published":  "2026-11-26T11:47:55Z",
-    "notes":  "Features\n- Add session hosts: confirm domain join password, show / hide passwords",
+    "version":  "2611.26.06",
+    "fileVersion":  "2611.26.6.0",
+    "published":  "2026-11-26T12:21:55Z",
+    "notes":  "Features\n- Per Host Pool: Friendly Name column\n- Add session hosts: save passwords securely, test domain join",
     "exe":  {
                 "name":  "AVD-Dashboard.exe",
-                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.26.05/AVD-Dashboard.exe",
-                "sha256":  "E743EE0B673D65754883F185B98420D4F14E4A1662A21A651E170462ED158652",
-                "size":  63525896
+                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.26.06/AVD-Dashboard.exe",
+                "sha256":  "5EF4866C77A6714BD3D937F443DDCECDCB52A9BF080668AB8347D9DBA749FF9A",
+                "size":  63532576
             }
 }
