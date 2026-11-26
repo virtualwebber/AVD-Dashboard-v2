@@ -1,13 +1,13 @@
 {
     "app":  "AVD-Dashboard",
-    "version":  "2611.26.04",
-    "fileVersion":  "2611.26.4.0",
-    "published":  "2026-11-26T11:24:12Z",
-    "notes":  "Fixes\n- Pooled image list matches the Portal (Windows Server, 26H2)",
+    "version":  "2611.26.05",
+    "fileVersion":  "2611.26.5.0",
+    "published":  "2026-11-26T11:47:55Z",
+    "notes":  "Features\n- Add session hosts: confirm domain join password, show / hide passwords",
     "exe":  {
                 "name":  "AVD-Dashboard.exe",
-                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.26.04/AVD-Dashboard.exe",
-                "sha256":  "73644C77E7BEBEA33C92B73B30DA062E6707EF866DBBC1A7718948D99E1706D4",
-                "size":  63524616
+                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.26.05/AVD-Dashboard.exe",
+                "sha256":  "E743EE0B673D65754883F185B98420D4F14E4A1662A21A651E170462ED158652",
+                "size":  63525896
             }
 }
