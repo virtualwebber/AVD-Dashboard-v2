@@ -1,13 +1,13 @@
 {
     "app":  "AVD-Dashboard",
-    "version":  "2611.26-dev",
-    "fileVersion":  "2611.26.0.0",
-    "published":  "2026-11-26T12:34:04Z",
-    "notes":  "",
+    "version":  "2611.26.08",
+    "fileVersion":  "2611.26.8.0",
+    "published":  "2026-11-26T13:02:34Z",
+    "notes":  "Features\n- Session details: Application column (RemoteApp name)\n\nFixes\n- Session details: RemoteApp sessions shown correctly",
     "exe":  {
                 "name":  "AVD-Dashboard.exe",
-                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.26.07/AVD-Dashboard.exe",
-                "sha256":  "FEEB4976B7012C3FBA2069517F9EBA8FE49637D58871F44C0A9717E87927BFD3",
-                "size":  63522773
+                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.26.08/AVD-Dashboard.exe",
+                "sha256":  "BE19EDBB895BDB75B200D9B4E4F40CCF20249403E216A83DD4E70BB50CF23041",
+                "size":  63533976
             }
 }
