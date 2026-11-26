@@ -1,13 +1,13 @@
 {
     "app":  "AVD-Dashboard",
-    "version":  "2611.26.01",
-    "fileVersion":  "2611.26.1.0",
-    "published":  "2026-11-26T06:28:22Z",
-    "notes":  "Features\n- Settings \u003e Log Analytics: create AVD Insights rules\n- No config at start-up: offers the Config Editor",
+    "version":  "2611.26.02",
+    "fileVersion":  "2611.26.2.0",
+    "published":  "2026-11-26T09:42:37Z",
+    "notes":  "Features\n- Add session hosts: option to set desktop names to VM names\n- Add session hosts: option to set no tags",
     "exe":  {
                 "name":  "AVD-Dashboard.exe",
-                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.26.01/AVD-Dashboard.exe",
-                "sha256":  "3BC257DC1135D650D13E22AD023CD38BB86CDB60DB2540DE2A838A14FFE146D5",
-                "size":  63518112
+                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.26.02/AVD-Dashboard.exe",
+                "sha256":  "CC0A58DD1353E0B726B8E6FEA36EAD48F7B5DE554C82832E82498D9A127269BA",
+                "size":  63522472
             }
 }
