@@ -1,13 +1,13 @@
 {
     "app":  "AVD-Dashboard",
-    "version":  "2611.25.12",
-    "fileVersion":  "2611.25.12.0",
-    "published":  "2026-11-25T17:44:14Z",
-    "notes":  "Fixes\n- Column menu: Image Version shown by its own name\n- Per Host Pool: narrower column spacing",
+    "version":  "2611.26.01",
+    "fileVersion":  "2611.26.1.0",
+    "published":  "2026-11-26T06:28:22Z",
+    "notes":  "Features\n- Settings \u003e Log Analytics: create AVD Insights rules\n- No config at start-up: offers the Config Editor",
     "exe":  {
                 "name":  "AVD-Dashboard.exe",
-                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.25.12/AVD-Dashboard.exe",
-                "sha256":  "3EB23D17A45D9EBA8BE707A9ADCE9C91CF4EB2EA9DB85C67252AE4752CA26769",
-                "size":  63506592
+                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.26.01/AVD-Dashboard.exe",
+                "sha256":  "3BC257DC1135D650D13E22AD023CD38BB86CDB60DB2540DE2A838A14FFE146D5",
+                "size":  63518112
             }
 }
