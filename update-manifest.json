@@ -1,13 +1,13 @@
 {
     "app":  "AVD-Dashboard",
-    "version":  "2611.26.03",
-    "fileVersion":  "2611.26.3.0",
-    "published":  "2026-11-26T11:11:21Z",
-    "notes":  "Features\n- Standard pooled host pools: Add session hosts",
+    "version":  "2611.26.04",
+    "fileVersion":  "2611.26.4.0",
+    "published":  "2026-11-26T11:24:12Z",
+    "notes":  "Fixes\n- Pooled image list matches the Portal (Windows Server, 26H2)",
     "exe":  {
                 "name":  "AVD-Dashboard.exe",
-                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.26.03/AVD-Dashboard.exe",
-                "sha256":  "519B9352531434A77AA183E4DEB0C01559213B1E5BB54CAD09E31FC5C49211AF",
-                "size":  63522624
+                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.26.04/AVD-Dashboard.exe",
+                "sha256":  "73644C77E7BEBEA33C92B73B30DA062E6707EF866DBBC1A7718948D99E1706D4",
+                "size":  63524616
             }
 }
