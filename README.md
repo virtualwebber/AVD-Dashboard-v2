@@ -1,6 +1,6 @@
-# AVD Live Dashboard 2611.26.08
+# AVD Live Dashboard 2611.27.01
 
-**Release Date** 26 November 2026
+**Release Date** 27 November 2026
 
 ---
 
@@ -85,12 +85,12 @@ Digitally signed using DigiCert.
 
 **Checksums**
 
-SHA256 - BE19EDBB895BDB75B200D9B4E4F40CCF20249403E216A83DD4E70BB50CF23041
+SHA256 - B709E1AB80E52EF68C47E28675000ED2D6726B1115E722E085F34CC6DA03DA9A
 
 **VirusTotal Result**
 
-https://www.virustotal.com/gui/file/be19edbb895bdb75b200d9b4e4f40ccf20249403e216a83dd4e70bb50cf23041/detection
+https://www.virustotal.com/gui/file/b709e1ab80e52ef68c47e28675000ed2d6726b1115e722e085f34cc6da03da9a/detection
 
-0 malicious / 0 suspicious of 69 engines
+0 malicious / 0 suspicious of 67 engines
 
 To check a download: `Get-FileHash .\AVD-Dashboard.exe -Algorithm SHA256`

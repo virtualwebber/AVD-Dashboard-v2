@@ -1,13 +1,13 @@
 {
     "app":  "AVD-Dashboard",
-    "version":  "2611.26.08",
-    "fileVersion":  "2611.26.8.0",
-    "published":  "2026-11-26T13:02:34Z",
-    "notes":  "Features\n- Session details: Application column (RemoteApp name)\n\nFixes\n- Session details: RemoteApp sessions shown correctly",
+    "version":  "2611.27.01",
+    "fileVersion":  "2611.27.1.0",
+    "published":  "2026-11-27T15:10:35Z",
+    "notes":  "Features\n- Per Host Pool: \"Start VM on Connect\" column renamed \"Start VM\"\n- Settings / Config Editor: hide workspaces and application groups\n- Summary strip: rings for host states, pool types, session capacity and Azure Files\n\nFixes\n- Add session hosts: domain join account must be a UPN",
     "exe":  {
                 "name":  "AVD-Dashboard.exe",
-                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.26.08/AVD-Dashboard.exe",
-                "sha256":  "BE19EDBB895BDB75B200D9B4E4F40CCF20249403E216A83DD4E70BB50CF23041",
-                "size":  63533976
+                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.27.01/AVD-Dashboard.exe",
+                "sha256":  "B709E1AB80E52EF68C47E28675000ED2D6726B1115E722E085F34CC6DA03DA9A",
+                "size":  63538696
             }
 }
