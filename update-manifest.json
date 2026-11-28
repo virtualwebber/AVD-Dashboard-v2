@@ -1,13 +1,13 @@
 {
     "app":  "AVD-Dashboard",
-    "version":  "2611.27.02",
-    "fileVersion":  "2611.27.2.0",
-    "published":  "2026-11-27T15:14:39Z",
-    "notes":  "",
+    "version":  "2611.28.01",
+    "fileVersion":  "2611.28.1.0",
+    "published":  "2026-11-28T10:14:26Z",
+    "notes":  "Features\n- Filter boxes have rounded corners\n- Sessions: host pool and user stay in place when scrolling sideways\n- Private endpoints window: DNS records, zones and VNet links, Export CSV\n- FSLogix Log Diagnostics: Container Errors tab (events, log errors, users, CSV)\n- FSLogix Log Diagnostics: time window drop-down, progress and Stop\n- FSLogix Log Diagnostics: warnings / timeline switches on their tabs\n\nFixes\n- Refresh without permission: Open PIM button; full error wraps in the tooltip\n- Private endpoints window: long names no longer cut off\n- FSLogix Log Diagnostics: log errors and the user filter now found\n- FSLogix Log Diagnostics: no hang on unreachable computers; messages wrap",
     "exe":  {
                 "name":  "AVD-Dashboard.exe",
-                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.27.02/AVD-Dashboard.exe",
-                "sha256":  "853506792B41E1AE614113E397006A6BE324C5362B3B495AA573FC5AEF00458D",
-                "size":  63538808
+                "url":  "https://github.com/virtualwebber/AVD-Dashboard-v2/releases/download/v2611.28.01/AVD-Dashboard.exe",
+                "sha256":  "E77618F073056E5CDDCE35AA73FC9693016352521B13B6111F519B5F87188994",
+                "size":  63566112
             }
 }
